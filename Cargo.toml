@@ -1,0 +1,6 @@
+[package]
+name = "spectrum"
+version = "0.1.0"
+authors = ["Mark Sherry <mdsherry@gmail.com>"]
+
+[dependencies]
